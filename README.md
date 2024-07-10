@@ -122,9 +122,6 @@ Allows users to start a challenge and track their progress. For fitness challeng
     npm install @expo/vector-icons
     ```
 
-### Firebase Setup
-Refer to the [Set Up Firebase](https://chatgpt.com/c/84d39824-d38b-450c-b029-e256a088deaa#set-up-firebase) section in the setup instructions.
-
 ### Expo setup
 Make sure to install Expo CLI globally and use the Expo Go app on your device for testing during development.
 
